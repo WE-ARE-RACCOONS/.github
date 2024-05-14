@@ -30,5 +30,6 @@
 <br />
 
 ## 프로젝트 구조
+<img width="858" alt="image" src="https://github.com/WE-ARE-RACCOONS/postgraduate-back/assets/97458548/c9f17ec0-0bcc-4a7c-9c3b-6d1c6c44417a">
 
 - 구조도를 할지 그냥 badge로 할지 고민중...
