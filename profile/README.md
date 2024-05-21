@@ -28,9 +28,13 @@
    - ...
   
 <br />
+
 ## 기술 스택
 - 백엔드
 - 프론트엔드
+
+  
+<br />
 ## 프로젝트 구조
 <img width="858" alt="image" src="https://github.com/WE-ARE-RACCOONS/postgraduate-back/assets/97458548/c9f17ec0-0bcc-4a7c-9c3b-6d1c6c44417a">
 
