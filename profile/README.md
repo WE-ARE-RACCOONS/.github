@@ -20,7 +20,8 @@
     <tr>
       <td align="center"><a href="https://github.com/leehyewon0531"><img src="https://avatars.githubusercontent.com/u/50830078?v=4" width="120px;" alt=""/><br /><sub><b>@leehyewon0531</b></sub></a><br/></td>
         <td align="center"><a href="https://github.com/yeonsuu21"><img src="https://avatars.githubusercontent.com/u/75175148?v=4" width="120px;"  ><br /><sub><a href="https://github.com/yeonsuu21"><sub><b>@yeonsuu21</b></sub></a><br/></td>
-      <td align="center"><a href="https://github.com/minh0518"><img src="https://avatars.githubusercontent.com/u/78631876?v=4" width="120px;" alt=""/><br /><sub><b>@minh0518</b></sub></a><br/></td>
+      <td align="center"><a href="https://github.com/ywj9811"><img src="https://avatars.githubusercontent.com/u/97458548?v=4" width="120px;" alt=""/><br /><sub><b>@ywj9811</b></sub></a><br/></td>
+          <td align="center"><a href="https://github.com/ay-eonii"><img src="https://avatars.githubusercontent.com/u/110026001?v=4" width="120px;" alt=""/><br /><sub><b>@ay-eonii</b></sub></a><br/></td>
     </tr>
     <tr>
         <td align ="center"> FE <br/> <span style="font-weight : bold">혜원</span></td>
