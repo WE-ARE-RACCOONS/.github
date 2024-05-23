@@ -18,9 +18,9 @@
 <table>
   <tbody>
     <tr>
-        <td align="center"><a href="https://github.com/dlantjdgkgk"><img src="https://avatars.githubusercontent.com/u/79708688?v=4" width="120px;"  ><br /><sub><a href="https://github.com/dlantjdgkgk"><sub><b>@dlantjdgkgk</b></sub></a><br/></td>
+      <td align="center"><a href="https://github.com/leehyewon0531"><img src="https://avatars.githubusercontent.com/u/50830078?v=4" width="120px;" alt=""/><br /><sub><b>@leehyewon0531</b></sub></a><br/></td>
+        <td align="center"><a href="https://github.com/dlantjdgkgk"><img src="https://avatars.githubusercontent.com/u/79708688?v=4" width="120px;"  ><br /><sub><a href="https://github.com/yeonsuu21"><sub><b>@yeonsuu21</b></sub></a><br/></td>
       <td align="center"><a href="https://github.com/minh0518"><img src="https://avatars.githubusercontent.com/u/78631876?v=4" width="120px;" alt=""/><br /><sub><b>@minh0518</b></sub></a><br/></td>
-        <td align="center"><a href="https://github.com/leehyewon0531"><img src="https://avatars.githubusercontent.com/u/50830078?v=4" width="120px;" alt=""/><br /><sub><b>@leehyewon0531</b></sub></a><br/></td>
     </tr>
     <tr>
         <td align ="center"> FE <br/> <span style="font-weight : bold">혜원</span></td>
