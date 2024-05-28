@@ -25,9 +25,9 @@
     </tr>
     <tr>
         <td align ="center">FE <br/> <span style="font-weight : bold">혜원[리드]</span></td>
-        <td align="center">FE <br/> <span style="font-weight : bold">연수</span></td>
+        <td align="center">FE <br/> <span style="font-weight : bold">연수 </span></td>
         <td align="center" >BE <br/> <span style="font-weight : bold">원준[리드]</span></td>
-       <td align="center" >BE <br/> <span style="font-weight : bold">아연</span></td>  
+       <td align="center" >BE <br/> <span style="font-weight : bold">아연[전팀원]</span></td>  
     </tr>
     </tbody>
 </table>
