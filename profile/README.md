@@ -24,9 +24,9 @@
           <td align="center"><a href="https://github.com/ay-eonii"><img src="https://avatars.githubusercontent.com/u/110026001?v=4" width="120px;" alt=""/><br /><sub><b>@ay-eonii</b></sub></a><br/></td>
     </tr>
     <tr>
-        <td align ="center">FE <br/> <span style="font-weight : bold">혜원</span></td>
+        <td align ="center">FE <br/> <span style="font-weight : bold">혜원[리드]</span></td>
         <td align="center">FE <br/> <span style="font-weight : bold">연수</span></td>
-        <td align="center" >BE <br/> <span style="font-weight : bold">원준</span></td>
+        <td align="center" >BE <br/> <span style="font-weight : bold">원준[리드]</span></td>
        <td align="center" >BE <br/> <span style="font-weight : bold">아연</span></td>  
     </tr>
     </tbody>
